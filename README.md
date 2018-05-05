@@ -10,7 +10,7 @@ For those who are also based in AU, feel free to contribute.
 
 * [Jargons](#jargons)
 
-* [Type of Mortgages](#Type of Mortgages)
+* [Type of Mortgages](#TypeofMortgages)
 
 ## Jargons
 
