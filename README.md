@@ -44,7 +44,9 @@ Loan: $500,000
 Loan to Value Ratio = 83.3 (LVR)
 ```
 
-The higher the LVR, the higher the risk associated with the loan.
+The higher the LVR, the higher the risk associated with the loan. Every property has an acceptable LVR assessed by the banks.
+
+Lenders Mortgage Insurance (LMI) - Whenever investors borrows **ABOVE** 80% LVR in order to buy a property, he will need to pay Lenders Mortgage Insurance. This insurance simple refers to premium that is payable by the borrower, protecting the mortgagee agaisnt an event whereby the borrower defaults on their mortgage.
 
 ## Two Categories of Mortgages
 
