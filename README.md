@@ -68,7 +68,7 @@ Only applicable on:
 * Above 80% LVR
 * 60% LVR for no doc loans.
 
-The _LMI_ value depends on the LVR percentage, let say you are borrowing 81% LVR, on a property purchase, the LMI premium might be 0.3 of the total loan amount compared to 95% LVR where the LMI premium may be as high as 3.5% of the total loan amount. To put that into perspective.
+The LMI value depends on the LVR percentage, let say you are borrowing 81% LVR, on a property purchase, the LMI premium might be 0.3 of the total loan amount compared to 95% LVR where the LMI premium may be as high as 3.5% of the total loan amount. To put that into perspective.
 
 ```markdown
 @ 81%
