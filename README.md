@@ -1,6 +1,6 @@
 ## Curated Notes Regarding Property Investing in Australia
 
-In the year 2017, with almost zero knowledge on how to invest in the stock market, I was able to learn, navigate and invest in Australia Stock Market (ASX). Not bad for self leaner.
+In the year 2017, with almost zero knowledge on how to invest in the stock market, I was able to learn, navigate and invest in Australia Stock Market (ASX). Not bad for self taught.
 
 This year, I decided to learn how the Australia's Property Market works. This repo will served as my notes, where in I can dump information, links, articles, jargons, that I learn along the way. Maybe in the future, If ever that I decided to buy my own property or join the real estate game, then this wiki will serve as my guidance. 😁
 
