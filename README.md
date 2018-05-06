@@ -14,6 +14,8 @@ For those who are also based in AU, feel free to contribute.
 
 * [Lenders Mortgage Insurance](#Lenders-Mortgage-Insurance)
 
+* [Which Lenders to Use](#Which-Lenders-to-Use)
+
 ## Jargons
 
 * **Equity** - Currently defined as the difference between the current market value of a property less the outstanding mortgage balance.
@@ -77,5 +79,14 @@ The _LMI_ value depends on the LVR percentage, let say you are borrowing 81% LVR
 ```
 
 > To avoid LMI, the investor needs to **deposit 20%** of the total property value.
+
+## Which Lenders to Use
+
+Start with the lenders that have the hardest and most stringent credit scoring policies and serviceability criteria. The logic behind this approach is that you want the hardest ones and move down the list every time you step down a level, the banking lender's criteria become easier to meet.
+
+Order of Lenders:
+
+1.  **Banks** - ANZ, NAB, Westpac, CBA, Bank of Western Australia, ING Bank, Suncorp, CityGroup, Macquarie bank, HSBC bank, AMP
+2.  **Credit Unions** - Credit Union Australia, Australian Central Credit Union, Savings and Loadn Credit Union
 
 ....to be continue
