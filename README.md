@@ -76,6 +76,6 @@ The _LMI_ value depends on the LVR percentage, let say you are borrowing 81% LVR
 (600,000 @ 95%) = 570,000 x 3.5% = $19,950
 ```
 
-To avoid LMI, the investor needs to deposit 20% of the total property value.
+> To avoid LMI, the investor needs to **deposit 20%** of the total property value.
 
 ....to be continue
