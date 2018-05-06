@@ -33,6 +33,8 @@ Total Equity: $200,000 (This is the equity)
 ## Two Categories of Mortgages
 
 * **Principle and Interest (P & I) Loans** - The most common way to repay a mortgage.
-* **Interest Only (IO) Loans** - Are popular with property investors, wherey only the interest component of the loan remains unchanged during the life of the loan.
+* **Interest Only (IO) Loans** - Are popular with property investors, wherey only the interest component of the loan remains unchanged during the life of the loan. You can build significant wealth faster and to a large extent more safely by utilizing IO than widely accepted P&I.
+
+In the introduction of the 'National Credit Consumer Protection Legislation (NCCP)', most interest only loans are set for 5 to 10 years then revert back to Principle and Interest (P & I) loan.
 
 ....to be continue
