@@ -12,6 +12,8 @@ For those who are also based in AU, feel free to contribute.
 
 * [Two Categories of Mortgages](#Two-Categories-of-Mortgages)
 
+* [Lenders Mortgage Insurance](#Lenders-Mortgage-Insurance)
+
 ## Jargons
 
 * **Equity** - Currently defined as the difference between the current market value of a property less the outstanding mortgage balance.
@@ -46,15 +48,34 @@ Loan to Value Ratio = 83.3 (LVR)
 
 The higher the LVR, the higher the risk associated with the loan. Every property has an acceptable LVR assessed by the banks.
 
-Lenders Mortgage Insurance (LMI) - Whenever investors borrows **ABOVE** 80% LVR in order to buy a property, he will need to pay Lenders Mortgage Insurance. This insurance simple refers to premium that is payable by the borrower, protecting the mortgagee agaisnt an event whereby the borrower defaults on their mortgage.
-
 ## Two Categories of Mortgages
 
 * **Principle and Interest (P & I) Loans** - The most common way to repay a mortgage.
-* **Interest Only (IO) Loans** - Are popular with property investors, wherey only the interest component of the loan remains unchanged during the life of the loan. You can build significant wealth faster and to a large extent more safely by utilizing IO than widely accepted P&I.
+* **Interest Only (IO) Loans** - Are popular with property investors, where only the interest component of the loan remains unchanged during the life of the loan. You can build significant wealth faster and to a large extent more safely by utilizing IO than widely accepted P&I.
 
 In the introduction of the 'National Credit Consumer Protection Legislation (NCCP)', most interest only loans are set for 5 to 10 years then revert back to Principle and Interest (P & I) loan.
 
 > It is worth noting that Australian Property market is 3x bigger than the Australian Stock market.
+
+## Lenders Mortgage Insurance
+
+Whenever investors borrows **ABOVE** 80% LVR in order to buy a property, he will need to pay Lenders Mortgage Insurance. This insurance simple refers to premium that is payable by the borrower, protecting the mortgagee agaisnt an event whereby the borrower defaults on their mortgage.
+
+Only applicable on:
+
+* Above 80% LVR
+* 60% LVR for no doc loans.
+
+The _LMI_ value depends on the LVR percentage, let say you are borrowing 81% LVR, on a property purchase, the LMI premium might be 0.3 of the total loan amount compared to 95% LVR where the LMI premium may be as high as 3.5% of the total loan amount. To put that into perspective.
+
+```markdown
+@ 81%
+($600,000 @ 81%) = $486,000 x 0.3 = $1,458
+
+@ 95%
+(600,000 @ 95%) = 570,000 x 3.5% = $19,950
+```
+
+To avoid LMI, the investor needs to deposit 20% of the total property value.
 
 ....to be continue
