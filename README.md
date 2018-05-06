@@ -10,11 +10,11 @@ For those who are also based in AU, feel free to contribute.
 
 * [Jargons](#jargons)
 
-* [Type of Mortgages](#TypeofMortgages)
+* [Two Categories of Mortgages](#Two-Categories-of-Mortgages)
 
 ## Jargons
 
-* **Equity** - Currently defined as the difference between the current market value of a property less the outstanding morgage balance.
+* **Equity** - Currently defined as the difference between the current market value of a property less the outstanding mortgage balance.
 
 ```markdown
 Purchase Price: $650,000
@@ -41,7 +41,7 @@ Loan: $500,000
 
 ($500,000 % 600,0000) x 100 = 83.33
 
-**Loan to Value Ratio** = 83.3 (LVR)
+Loan to Value Ratio = 83.3 (LVR)
 ```
 
 The higher the LVR, the higher the risk associated with the loan.
