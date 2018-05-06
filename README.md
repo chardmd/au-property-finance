@@ -35,13 +35,13 @@ Total Equity: $200,000 (This is the equity)
 ```markdown
 Formula:
 
-Value of the Property: $ 600, 000
-Buyer's Deposit: $100, 000
-Loan: $500, 000
+Value of the Property: $ 600,000
+Buyer's Deposit: $100,000
+Loan: $500,000
 
 ($500,000 % 600,0000) x 100 = 83.33
 
-Loan to Value Ratio = 83.3 (LVR)
+**Loan to Value Ratio** = 83.3 (LVR)
 ```
 
 The higher the LVR, the higher the risk associated with the loan.
