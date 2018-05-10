@@ -16,6 +16,8 @@ For those who are also based in AU, feel free to contribute.
 
 * [Which Lenders to Use](#Which-Lenders-to-Use)
 
+* [Types of Loans](#Types-of-Loans)
+
 ## Jargons
 
 * **Equity** - Currently defined as the difference between the current market value of a property less the outstanding mortgage balance.
@@ -88,5 +90,19 @@ Order of Lenders:
 
 1.  **Banks** - ANZ, NAB, Westpac, CBA, Bank of Western Australia, ING Bank, Suncorp, CityGroup, Macquarie bank, HSBC bank, AMP
 2.  **Credit Unions** - Credit Union Australia, Australian Central Credit Union, Savings and Loadn Credit Union
+
+## Types of Loans
+
+The most important aspect of loan to a property investory is flexibility and loan features, more specifically, ability to unlock equity with ease and have access to funds at hand in the event that the property becomes available to the market while the least important aspect of a loan is the <i>interest rate</i> given that we are currently in a low interest rate environment.
+
+* **Basic Variable Loans** - Design by the banks as a bait punter, due to its very competitive low pricing. Banks just want to get traffic through the door. It's interest rate moves in line with Reverse Bank of Australia. No offset facilities, no redraw.
+
+* **Standard Variable Loans** - The most popular loan in Australia. Interest rate is priced slightly higher than basic variable loan. Available redraw facilities and loan splitting, interest rates moves with RBA, allowance for making additional payments.
+
+* **Fixed Rate Loans** - Allows the borrowers to fixed the interest rate loan for up to 15 years. Once the fixed period is expired, it reverts back to lenders standard variable interest rate, however nothing stops investors from refinancing the loan with another lender for another fixed term.
+
+* **Introductory / Honeymoon Rate Loans** - Clever marketing ploy to capture first time buyers and new borrowers. Borrowers pay a discounted interest rate that is significantly lower than the standard variable rate. Once the promo is over, it will revert back to standard and variable loan.
+
+  > Rather taking out the honeymoon rate loan, First time home buyers or new investors would be better off with a <i>professional package with a 100% offset facility</i> in most circumstances.
 
 ....to be continue
